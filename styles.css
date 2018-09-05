@@ -1,0 +1,7 @@
+#gato td {
+    border: thin solid black;
+    height: 1em;
+    padding: 1em;
+    width: 1em;
+    font-size: 300%;
+}
